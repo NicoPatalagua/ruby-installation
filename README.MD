@@ -1,6 +1,6 @@
 # Ruby installation
 
-# Definition 📜
+# Guide 📜
 This guide will show you the steps necessary to install [Ruby] (https://www.ruby-lang.org/en/) on different operating systems. 
 If you find problems with the installation and you are a student of Make it Real, do not hesitate to contact your mentor to review the problem and help us improve this guide.
 
