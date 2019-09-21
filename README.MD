@@ -11,7 +11,7 @@ Select your operating system:
 
 * [MAc OSX] (https://github.com/NicoPatalagua/ruby-installation/blob/master/macosx.md)
 * [Ubuntu] (https://github.com/NicoPatalagua/ruby-installation/blob/master/ubuntu.md)
-* [Windows] (windows.md)
+* [Windows] (https://github.com/NicoPatalagua/ruby-installation/blob/master/windows.md)
 
 # Author ✒️
 
