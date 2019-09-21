@@ -10,7 +10,9 @@ The steps you must take to install Ruby are the following:
 
 1. Go to [this page] (https://rubyinstaller.org/downloads/) and download the ** Ruby 2.3.3 (x64) ** version (if your processor and operating system are 64-bit) or ** Ruby 2.3.3 ** (if your processor or operating system is 32 bits).
 
-   ⚠**NOTE:**:_To verify if your computer is 32 or 64 bits, enter ** Control Panel **> ** System and Security **> ** System ** and look for a line that says ** Type of System**._
+
+  
+⚠**NOTE:**:_To verify if your computer is 32 or 64 bits, enter ** Control Panel **> ** System and Security **> ** System ** and look for a line that says ** Type of System**._
    
 
    ![System Type] (https://github.com/NicoPatalagua/ruby-installation/blob/master/images/windows-system.jpg)
@@ -22,7 +24,7 @@ The steps you must take to install Ruby are the following:
 
    ! [Ruby Installer] (https://github.com/NicoPatalagua/ruby-installation/blob/master/images/windows-ruby-path.jpg)
 
-   ** Note **: Memorize or copy the route where Ruby is going to be installed because you will need it later.
+   ⚠**NOTE:**:_Memorize or copy the route where Ruby is going to be installed because you will need it later._
 
 That's it. Now we have to install the Ruby Development Kit.
 
@@ -59,11 +61,11 @@ That's it. Now we have to install the Ruby Development Kit.
 
 ## Verify your installation
 
-Execute the following command in the ** Command Prompt **:
+Execute the following command in the **Command Prompt**:
 
-``
+```
 ruby -v
-``
+```
 
 I should show you the version you just installed.
 
