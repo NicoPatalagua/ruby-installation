@@ -9,9 +9,9 @@ If you find problems with the installation and you are a student of Make it Real
 
 Select your operating system:
 
-* [Windows] (windows.md)
-* [Ubuntu] (ubuntu.md)
-* [Mac OSX] (macosx.md)
+* [Windows] (https://github.com/NicoPatalagua/ruby-installation/blob/master/macosx.md)
+* [Ubuntu] (https://github.com/NicoPatalagua/ruby-installation/blob/master/ubuntu.md)
+* [Mac OSX] (https://github.com/NicoPatalagua/ruby-installation/blob/master/windows.md)
 
 # Author ✒️
 
