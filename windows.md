@@ -15,14 +15,14 @@ The steps you must take to install Ruby are the following:
 ⚠**NOTE:**:_To verify if your computer is 32 or 64 bits, enter ** Control Panel **> ** System and Security **> ** System ** and look for a line that says ** Type of System**._
    
 
-   ![System Type] (https://github.com/NicoPatalagua/ruby-installation/blob/master/images/windows-system.jpg)
+   ![Windows1](windows-system.jpg)
    
 
 2. Run the installer you downloaded in the previous step.
 
 3. Follow the installation instructions. However, be careful when you see the following screen and select the ** Add Ruby Executables to your PATH ** option as shown in the following image:
 
-   ! [Ruby Installer] (https://github.com/NicoPatalagua/ruby-installation/blob/master/images/windows-ruby-path.jpg)
+   ![Installer](windows-ruby-path.jpg)
 
    ⚠**NOTE:**:_Memorize or copy the route where Ruby is going to be installed because you will need it later._
 
@@ -38,7 +38,7 @@ That's it. Now we have to install the Ruby Development Kit.
 
 4. When asked where to extract the package, change the path to `C: \ DevKit` as shown in the following image:
 
-   ! [DevKit Path] (https://github.com/NicoPatalagua/ruby-installation/blob/master/images/extract-devkit.jpg)
+   ![Path] (extract-devkit.jpg)
 
 5. Once the DevKit installation is complete, open the ** Command Prompt ** and execute the following commands (not including the `>` symbol):
 
