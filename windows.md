@@ -38,7 +38,7 @@ That's it. Now we have to install the Ruby Development Kit.
 
 4. When asked where to extract the package, change the path to `C: \ DevKit` as shown in the following image:
 
-   ![Path] (extract-devkit.jpg)
+   ![Path](extract-devkit.jpg)
 
 5. Once the DevKit installation is complete, open the **Command Prompt** and execute the following commands (not including the `>` symbol):
 
