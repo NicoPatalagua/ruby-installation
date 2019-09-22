@@ -12,7 +12,7 @@ The steps you must take to install Ruby are the following:
 
 
   
-⚠**NOTE:**:_To verify if your computer is 32 or 64 bits, enter **Control Panel** > **System and Security** > **System** and look for a line that says **Type of System**._
+⚠**NOTE:** _To verify if your computer is 32 or 64 bits, enter **Control Panel** > **System and Security** > **System** and look for a line that says **Type of System**._
    
 
    ![Windows1](windows-system.jpg)
